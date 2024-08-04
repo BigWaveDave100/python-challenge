@@ -1,1 +1,2 @@
-# python-challenge
+# python-challenge README
+The pybank and pypoll challenges were both done by me however i did use chatgpt to help with some debugging issues. The pybank code is in the pybank folder under main.py. the pypoll code is in the pypoll folder under main.py. Both sets of code have no bugs when ran by myself and print results to both the terminal and a text file. 
